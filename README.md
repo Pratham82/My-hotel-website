@@ -5,4 +5,4 @@ This is basic front end website which created purely in basic HTML, CSS with flo
 Techsatck:
 - HTML 
 - CSS
-- Floats layout
+
