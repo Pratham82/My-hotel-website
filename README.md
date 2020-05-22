@@ -5,4 +5,6 @@ This is basic front end website which created purely in basic HTML, CSS with flo
 Techsatck:
 - HTML 
 - CSS
-[Live site](https://hotel-bt-2020.netlify.app/)
+
+
+Demo: [Live site](https://hotel-bt-2020.netlify.app/)
